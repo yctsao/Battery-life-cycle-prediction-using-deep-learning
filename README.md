@@ -1,5 +1,5 @@
-# CS230
-CS230_final_report : Final report for the project
+# Battery-life-cycle-prediction-using-deep-learning
+
 
 data_split:  code for split the training/dev/test set
 
